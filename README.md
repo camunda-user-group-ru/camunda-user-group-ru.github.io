@@ -13,7 +13,7 @@ _Митап #4 прошел 27.02.2020. Видео с митапа будет о
 ### Видео со встреч
 * [Meetup #1](https://youtu.be/f5LipJbcfWU)
    + [JUnit тестирование процессов](https://drive.google.com/file/d/1wpoSJL-Lks4fecKqVf6KoLNkLg60vZy5/view)
-   + [Управление микросервисами с помощью Zeebe](https://t.me/camunda_bpm/954) | [code](https://github.com/huksley/zeebe-kafka-camunda)
+   + [Управление микросервисами с помощью Zeebe](https://t.me/camunda_bpm/954) - [[code](https://github.com/huksley/zeebe-kafka-camunda)]
    + TBD []()
 * [Meetup #2](https://youtu.be/udOaBmFBhbs)
    + [Как сэкономить год разработки при создании процессных приложений на Camunda](https://t.me/camunda_bpm/4001)
