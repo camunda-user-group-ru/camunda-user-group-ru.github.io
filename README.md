@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+**Добро пожаловать!**
 
-You can use the [editor on GitHub](https://github.com/bpm-community-group-ru/telegram-camunda-bpm-group-doc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+_Здесь вы найдете какие-либо описания по Telegram-чату [Camunda BPM Group](https://t.me/camunda_bpm), полезные ссылки на тренинги(платные и бесплатные) и другие активности, информацию по встречам и многое другое._
+_Информацию в этом описании будет обновляться по мере поступления и при изменении будет оповещение в чат в конце дня по GMT+3._
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+***
+## Последние новости
+_Митап #4 прошел 27.02.2020. Видео с митапа будет опубликовано после 8го марта._
+***
 
-### Markdown
+### Видео со встреч
+* [Meetup #1](https://youtu.be/f5LipJbcfWU)
+   + [JUnit тестирование процессов](https://drive.google.com/file/d/1wpoSJL-Lks4fecKqVf6KoLNkLg60vZy5/view)
+   + [Управление микросервисами с помощью Zeebe](https://t.me/camunda_bpm/954) | [code](https://github.com/huksley/zeebe-kafka-camunda)
+   + []()
+* [Meetup #2](https://youtu.be/udOaBmFBhbs)
+   + [Как сэкономить год разработки при создании процессных приложений на Camunda](https://t.me/camunda_bpm/4001)
+   + [Applied Service Orchestration via BPMN and CMMN](https://t.me/camunda_bpm/4061)
+   + []()
+* [Meetup #3](https://youtu.be/gH2-KoMKBes)
+   + []()
+   + []()
+   + []()
+* Meetup #4
+   + [Как избавиться от контекста и начать жить](https://t.me/camunda_bpm/10147)
+   + [КАК ИСПОЛЬЗОВАТЬ BPMN ДЛЯ РЕФАКТОРИНГА ЛЕГАСИ СИСТЕМ](https://t.me/camunda_bpm/10111)
+   + [Camunda + .NET = ♥](https://t.me/camunda_bpm/10110)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Тренинги/Курсы
+* [Бесплатный курс по BPM на Udemy](https://www.udemy.com/course/bpminforu/learn/lecture/13716670)
+* [Онлайн-курсы](https://bpmn2.ru/online-courses)
+* [Бизнес-процессы на BPMN 2.0](https://bpmteam.timepad.ru/event/1257548/)
+* [Бизнес-процессы на DMN 1.1 и CMMN 1.1. Основы нотации и практикум по моделированию](https://bpmteam.timepad.ru/event/1257566/)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bpm-community-group-ru/telegram-camunda-bpm-group-doc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Полезные ссылки
+- [BPMN difftool for Git](https://github.com/38leinaD/bpmn-diff)
