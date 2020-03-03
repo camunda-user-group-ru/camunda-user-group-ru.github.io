@@ -1,0 +1,50 @@
+/** mobile */
+
+@media screen and (max-width: 58em) {
+  /** Fix theme mobile font - too small to read */
+  html {
+    font-size: 20px;
+  }
+
+  .network-icon li {
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+  }
+}
+
+#profile .portrait {
+  width: 330px;
+  height: 330px;
+  border-radius: 50%;
+  background-position: -330px -165px;
+  background-image: url("camunda-group-card-center.png");
+}
+
+ul.network-icon li {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+/** other */
+
+/* Move icon little more up */
+.ul-edu .fas,
+.ul-edu .fab {
+  margin-top: -3px;
+}
+
+/* Remove bottom padding to avoid scrolling */
+.home-section {
+  padding-bottom: 0px;
+}
+
+/* Remove unnecessary padding as we are will be 
+   wrapping before it will have any effect */
+.col-md-4 {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+ul.rather-small .description {
+  font-size: 13px;
+}
